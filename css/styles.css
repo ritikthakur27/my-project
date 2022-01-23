@@ -1,0 +1,44 @@
+body{
+font-family: 'montreal';
+color:#fff;
+}
+
+.navbar-brand{
+  font-family: ubunte;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding:0 0 4.5rem;
+}
+
+.nav-item{
+  padding:0 18px;
+}
+
+.nav-link{
+  font-size: 2rem;
+  font-family: montreal;
+}
+
+.download-button{
+  margin:7% 3% 5% 0;
+}
+
+.title-image{
+  width:60%;
+  transform:rotate(25deg);
+}
+
+#title{background-color: #ff4c68;}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+h1{
+  font-style: oblique;
+  font-size: 4rem;
+  line-height: 1.5;
+}
